@@ -1,9 +1,10 @@
 
 import Home from "./assets/pages/Home";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import ProductInfo from "./assets/pages/productInfo";
+
 import FindCollection from "./assets/pages/FindCollection";
 import Shopnow from "./assets/pages/Shopnow";
+import ProductInfo from "./assets/pages/productInfo";
 
 
 const App = () => {
